@@ -1,4 +1,4 @@
-# Hello World! Eu sou Vitor Francisco 👋
+# Hello World! Eu sou Hugo Araujo 👋
 
 *"Passionate about technology and programming, always eager to learn and grow."*
 
@@ -33,6 +33,6 @@ Sou estudante de *Desenvolvimento de Sistemas* no *Senac* e apaixonado por tecno
 
 ## 👯️‍💻 Como me encontrar  
 📧 *E-mail:* hugoaraujope1@gmail.com
-🌎 *LinkedIn:* [Vitor Francisco](https://www.linkedin.com/in/vitor-francisco-66894a246/)  
+🌎 *LinkedIn:* [Vitor Francisco](https://www.linkedin.com/in/hugo-araujo-079abb356/)  
 
 📌 Sempre aberto para trocar conhecimento e colaborar em projetos! 🚀
