@@ -33,6 +33,6 @@ Sou estudante de *Desenvolvimento de Sistemas* no *Senac* e apaixonado por tecno
 
 ## 👯️‍💻 Como me encontrar  
 📧 *E-mail:* hugoaraujope1@gmail.com
-🌎 *LinkedIn:* [Vitor Francisco](https://www.linkedin.com/in/hugo-araujo-079abb356/)  
+🌎 *LinkedIn:* [Hugo Araujo](https://www.linkedin.com/in/hugo-araujo-079abb356/)  
 
 📌 Sempre aberto para trocar conhecimento e colaborar em projetos! 🚀
